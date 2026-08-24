@@ -1,0 +1,98 @@
+<!-- ============================================================ -->
+<!--  swemone0-cyber's GitHub Profile README                      -->
+<!--  Theme: Dark Red x Pink, Cute Girly ✨                        -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C2185B,100:FF8FB1&height=220&section=header&text=Hey,%20I'm%20Swe%20Mone!%20💗&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20|%20Spring%20Boot%20|%20HTML%20&%20CSS%20Developer&descAlignY=58&descSize=18&descColor=ffe1ec" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF3E7F&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+code+%F0%9F%8E%80;Java+%E2%98%95+%7C+Spring+Boot+%F0%9F%8C%B1+%7C+HTML+%26+CSS+%F0%9F%92%95;Coding+with+a+touch+of+pink+%F0%9F%8C%B8;Thanks+for+visiting+my+profile+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+
+<br/>
+
+<h3 align="center">🎀 About Me 🎀</h3>
+
+<table align="center">
+<tr><td>
+
+🌸 &nbsp; I'm **Swe Mone**, a coder who loves clean design as much as clean code
+💻 &nbsp; Currently building things with **Java** & **Spring Boot**
+🎨 &nbsp; Crafting pretty interfaces with **HTML** & **CSS**
+✨ &nbsp; Always learning, always leveling up
+💗 &nbsp; Dark red meets pink — that's my whole vibe
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+
+<h3 align="center">💻 My Tech Stack 💻</h3>
+
+<div align="center">
+
+<a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65" alt="Java"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65" alt="Spring Boot"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" alt="HTML"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" alt="CSS"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" alt="Git"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" height="65" alt="MySQL"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="65" height="65" alt="IntelliJ IDEA"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swemone0-cyber&show_icons=true&hide_border=true&bg_color=1A0508&title_color=FF8FB1&icon_color=FF3E7F&text_color=FFD6E4&ring_color=8B0000" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=swemone0-cyber&hide_border=true&background=1A0508&ring=FF3E7F&fire=FF8FB1&currStreakLabel=FFD6E4&sideLabels=FFD6E4&currStreakNum=FFD6E4&sideNums=FFD6E4&dates=C2185B" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swemone0-cyber&layout=compact&hide_border=true&bg_color=1A0508&title_color=FF8FB1&text_color=FFD6E4&langs_count=8" width="49%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+
+<h3 align="center">🐍 My Contribution Snake 🐍</h3>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swemone0-cyber/swemone0-cyber/output/pink-snake.svg" />
+  <img alt="pink contribution snake" src="https://raw.githubusercontent.com/swemone0-cyber/swemone0-cyber/output/pink-snake.svg" width="100%"/>
+</picture>
+
+<sub>✨ Generates automatically once GitHub Actions runs — see <code>.github/workflows/snake.yml</code> ✨</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+
+<h3 align="center">💌 Let's Connect 💌</h3>
+
+<div align="center">
+
+<a href="https://github.com/swemone0-cyber"><img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-FF8FB1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=swemone0-cyber&color=ff8fb1&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FB1,50:C2185B,100:8B0000&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+<p align="center"><i>Made with 💕 and a lot of pink</i></p>
