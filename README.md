@@ -78,6 +78,30 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+
+<h3 align="center">🍥 Favorite Anime Character 🍥</h3>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/Ro3QH9ZNTCvHW/giphy.gif" width="260" style="border-radius:12px;" alt="Hinata Hyuga"/>
+
+<h4>👁️ Hinata Hyuga — <i>Naruto</i> 👁️</h4>
+
+<table align="center">
+<tr><td>
+
+<i>"I used to always cry and give up... but you helped me find another way. That's why I'm no longer afraid to be who I am."</i>
+
+</td></tr>
+</table>
+
+<sub>🌸 Gentle, quietly strong, never gives up on the people she loves — big inspo 🌸</sub>
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
 
 <h3 align="center">💌 Let's Connect 💌</h3>
