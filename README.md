@@ -1,17 +1,17 @@
 <!-- ============================================================ -->
 <!--  swemone0-cyber's GitHub Profile README                      -->
-<!--  Theme: Dark Red x Pink, Cute Girly ✨                        -->
+<!--  Theme: Dark Red x Pink x Lavender, Cute Girly ✨              -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C2185B,100:FF8FB1&height=220&section=header&text=Hey,%20I'm%20Swe%20Mone!%20💗&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20|%20Spring%20Boot%20|%20HTML%20&%20CSS%20Developer&descAlignY=58&descSize=18&descColor=ffe1ec" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF3E7F,100:B497D6&height=220&section=header&text=Hey,%20I'm%20Swe%20Mone!%20💗&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20|%20Spring%20Boot%20|%20HTML%20&%20CSS%20Developer&descAlignY=58&descSize=18&descColor=ffe1ec" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF3E7F&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+code+%F0%9F%8E%80;Java+%E2%98%95+%7C+Spring+Boot+%F0%9F%8C%B1+%7C+HTML+%26+CSS+%F0%9F%92%95;Coding+with+a+touch+of+pink+%F0%9F%8C%B8;Thanks+for+visiting+my+profile+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF3E7F&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+code+%F0%9F%8E%80;Java+%E2%98%95+%7C+Spring+Boot+%F0%9F%8C%B1+%7C+HTML+%26+CSS+%F0%9F%92%95;Coding+with+a+touch+of+pink+%26+lavender+%F0%9F%92%9C;Thanks+for+visiting+my+profile+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF8FB1,100:B497D6&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -29,7 +29,7 @@
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B497D6,50:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
 
 <h3 align="center">💻 My Tech Stack 💻</h3>
 
@@ -48,7 +48,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF8FB1,100:B497D6&height=4&section=header" width="100%"/>
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
@@ -57,11 +57,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=swemone0-cyber&show_icons=true&hide_border=true&bg_color=1A0508&title_color=FF8FB1&icon_color=FF3E7F&text_color=FFD6E4&ring_color=8B0000" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swemone0-cyber&hide_border=true&background=1A0508&ring=FF3E7F&fire=FF8FB1&currStreakLabel=FFD6E4&sideLabels=FFD6E4&currStreakNum=FFD6E4&sideNums=FFD6E4&dates=C2185B" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swemone0-cyber&layout=compact&hide_border=true&bg_color=1A0508&title_color=FF8FB1&text_color=FFD6E4&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swemone0-cyber&layout=compact&hide_border=true&bg_color=1A0508&title_color=B497D6&text_color=FFD6E4&langs_count=8" width="49%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B497D6,50:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
 
 <h3 align="center">🐍 My Contribution Snake 🐍</h3>
 
@@ -78,7 +78,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B497D6,50:FF8FB1,100:8B0000&height=4&section=header" width="100%"/>
 
 <h3 align="center">🍥 Favorite Anime Character 🍥</h3>
 
@@ -86,7 +86,7 @@
 
 <img src="https://media.giphy.com/media/zO5zEk7RSiIoRN4dfw/giphy.gif" width="320" style="border-radius:12px;" alt="Hinata Hyuga - The Last"/>
 
-<h4>👁️ Hinata Hyuga — <i>Naruto</i> 👁️</h4>
+<h4>💜 Hinata Hyuga — <i>Naruto</i> 💜</h4>
 
 <table align="center">
 <tr><td>
@@ -96,13 +96,13 @@
 </td></tr>
 </table>
 
-<sub>🌸 Gentle, quietly strong, never gives up on the people she loves — big inspo 🌸</sub>
+<sub>💜 Gentle, quietly strong, never gives up on the people she loves — big inspo 💜</sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF8FB1&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF8FB1,100:B497D6&height=4&section=header" width="100%"/>
 
 <h3 align="center">💌 Let's Connect 💌</h3>
 
@@ -117,6 +117,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FB1,50:C2185B,100:8B0000&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B497D6,33:FF8FB1,66:C2185B,100:8B0000&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-<p align="center"><i>Made with 💕 and a lot of pink</i></p>
+<p align="center"><i>Made with 💕 pink, and a touch of lavender 💜</i></p>
