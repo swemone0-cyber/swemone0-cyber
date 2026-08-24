@@ -63,7 +63,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B497D6,50:C9A9E0,100:FF8FB1&height=4&section=header" width="100%"/>
 
-<h3 align="center">🐍 My Contribution Snake 🐍</h3>
+<h3 align="center">🐍💜 My Heart-Eating Contribution Snake 💜🐍</h3>
 
 <div align="center">
 
@@ -72,7 +72,7 @@
   <img alt="pink contribution snake" src="https://raw.githubusercontent.com/swemone0-cyber/swemone0-cyber/output/pink-snake.svg" width="100%"/>
 </picture>
 
-<sub>✨ Generates automatically once GitHub Actions runs — see <code>.github/workflows/snake.yml</code> ✨</sub>
+<sub>✨ My snake gobbles up little lavender hearts as it goes — generates automatically via <code>.github/workflows/snake.yml</code> ✨</sub>
 
 </div>
 
