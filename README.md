@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/Ro3QH9ZNTCvHW/giphy.gif" width="260" style="border-radius:12px;" alt="Hinata Hyuga"/>
+<img src="https://media.giphy.com/media/zO5zEk7RSiIoRN4dfw/giphy.gif" width="320" style="border-radius:12px;" alt="Hinata Hyuga - The Last"/>
 
 <h4>👁️ Hinata Hyuga — <i>Naruto</i> 👁️</h4>
 
