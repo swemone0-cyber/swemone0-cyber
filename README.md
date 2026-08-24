@@ -24,7 +24,7 @@
 💻 &nbsp; Currently building things with **Java** & **Spring Boot**
 🎨 &nbsp; Crafting pretty interfaces with **HTML** & **CSS**
 ✨ &nbsp; Always learning, always leveling up
-💜 &nbsp; Lavender meets pink — that's my whole vibe
+💜 &nbsp; Lavender meets pink - that's my whole vibe
 
 </td></tr>
 </table>
@@ -72,7 +72,7 @@
   <img alt="pink contribution snake" src="https://raw.githubusercontent.com/swemone0-cyber/swemone0-cyber/output/pink-snake.svg" width="100%"/>
 </picture>
 
-<sub>✨ My snake gobbles up little lavender hearts as it goes — generates automatically via <code>.github/workflows/snake.yml</code> ✨</sub>
+<sub>✨ My snake gobbles up little lavender hearts as it goes - generates automatically via <code>.github/workflows/snake.yml</code> ✨</sub>
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <img src="https://media.giphy.com/media/zO5zEk7RSiIoRN4dfw/giphy.gif" width="320" style="border-radius:12px;" alt="Hinata Hyuga - The Last"/>
 
-<h4>💜 Hinata Hyuga — <i>Naruto</i> 💜</h4>
+<h4>💜 Hinata Hyuga - <i>Naruto</i> 💜</h4>
 
 <table align="center">
 <tr><td>
@@ -96,7 +96,7 @@
 </td></tr>
 </table>
 
-<sub>💜 Gentle, quietly strong, never gives up on the people she loves — big inspo 💜</sub>
+<sub>💜 Gentle, quietly strong, never gives up on the people she loves - big inspo 💜</sub>
 
 </div>
 
